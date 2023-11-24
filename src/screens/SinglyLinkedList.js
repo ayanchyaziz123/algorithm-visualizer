@@ -12,7 +12,7 @@ class SinglyLinkedList extends Component{
 
     render(){
         return(<>
-        Hello world...!!!!!!
+        Hello world...!
         </>)
     }
 
