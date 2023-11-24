@@ -20,6 +20,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://ayanchyaziz123.github.io/algorithm-visualizer/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -48,6 +49,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.0"
-  },
-  "homepage": "https://ayanchyaziz123.github.io/algorithm-visualizer/"
+  }
 }
